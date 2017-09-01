@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/venkatapardhasaradhi/Downloads/poi-bin-3.15-20160924/poi-3.15/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/venkatapardhasaradhi/Downloads/poi-bin-3.15-20160924/poi-3.15/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/venkatapardhasaradhi/Downloads/poi-bin-3.15-20160924/poi-3.15/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/venkatapardhasaradhi/Downloads/poi-bin-3.15-20160924/poi-3.15/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/venkatapardhasaradhi/Downloads/poi-bin-3.15-20160924/poi-3.15/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/venkatapardhasaradhi/Downloads/poi-bin-3.15-20160924/poi-3.15/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/venkatapardhasaradhi/Downloads/poi-bin-3.15-20160924/poi-3.15/poi-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/venkatapardhasaradhi/Downloads/poi-bin-3.15-20160924/poi-3.15/poi-examples-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/venkatapardhasaradhi/Downloads/poi-bin-3.15-20160924/poi-3.15/poi-excelant-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/venkatapardhasaradhi/Downloads/poi-bin-3.15-20160924/poi-3.15/poi-ooxml-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/venkatapardhasaradhi/Downloads/poi-bin-3.15-20160924/poi-3.15/poi-ooxml-schemas-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/venkatapardhasaradhi/Downloads/poi-bin-3.15-20160924/poi-3.15/poi-scratchpad-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/venkatapardhasaradhi/Downloads/poi-bin-3.15-20160924/poi-3.15/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/selenium-server-standalone-2.39.0.jar" sourcepath="/tanujaproject"/>
+	<classpathentry kind="lib" path="C:/Users/venkatapardhasaradhi/Downloads/extentreports-2.05 (1).jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
